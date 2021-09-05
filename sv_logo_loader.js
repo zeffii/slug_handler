@@ -1,7 +1,7 @@
 var sv_logo;
  
 function setup() {
-  createCanvas(700, 900, WEBGL);
+  createCanvas(900, 600, WEBGL);
   sv_logo = loadModel('sv_logo.obj');
 }
 
