@@ -8,7 +8,7 @@ function setup() {
 function draw() {
   background(250);
 
-  normalMaterial();
+  //# normalMaterial();
   translate(240, 0, 0);
   rotateZ(frameCount * 0.01);
   rotateX(frameCount * 0.01);
