@@ -9,7 +9,8 @@ function draw() {
   background(250);
 
   //# normalMaterial();
-  translate(240, 0, 0);
+  scale(3, 3, 3_;
+  translate(140, 0, 0);
   rotateZ(frameCount * 0.01);
   rotateX(frameCount * 0.01);
   rotateY(frameCount * 0.01);
